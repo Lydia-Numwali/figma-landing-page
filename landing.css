@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav-bar{
+    width: 1440px;
+    height: 60px;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
