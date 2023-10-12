@@ -1,0 +1,14 @@
+*{
+  font-family: "Inter",sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+#logo{
+  display: flex;
+  width: 111px;
+  height: 19px;
+  padding: 0px 3px 0px 2px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+}
